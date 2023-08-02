@@ -10,6 +10,446 @@
       "type": "wallpaper2",
       "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper2.jpg"
     },
-    // add more wallpapers as needed
+    {
+      "id": 3,
+      "type": "wallpaper3",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper3.jpg"
+    },
+    {
+      "id": 4,
+      "type": "wallpaper4",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper4.jpg"
+    },
+    {
+      "id": 5,
+      "type": "wallpaper5",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper5.jpg"
+    },
+    {
+      "id": 6,
+      "type": "wallpaper6",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper6.jpg"
+    },
+    {
+      "id": 7,
+      "type": "wallpaper7",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper7.jpg"
+    },
+    {
+      "id": 8,
+      "type": "wallpaper8",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper8.jpg"
+    },
+    {
+      "id": 9,
+      "type": "wallpaper9",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper9.jpg"
+    },
+    {
+      "id": 10,
+      "type": "wallpaper10",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper10.jpg"
+    },
+    {
+      "id": 11,
+      "type": "wallpaper11",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper11.jpg"
+    },
+    {
+      "id": 12,
+      "type": "wallpaper12",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper12.jpg"
+    },
+    {
+      "id": 13,
+      "type": "wallpaper13",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper13.jpg"
+    },
+    {
+      "id": 14,
+      "type": "wallpaper14",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper14.jpg"
+    },
+    {
+      "id": 15,
+      "type": "wallpaper15",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper15.jpg"
+    },
+    {
+      "id": 16,
+      "type": "wallpaper16",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper16.jpg"
+    },
+    {
+      "id": 17,
+      "type": "wallpaper17",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper17.jpg"
+    },
+    {
+      "id": 18,
+      "type": "wallpaper18",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper18.jpg"
+    },
+    {
+      "id": 19,
+      "type": "wallpaper19",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper19.jpg"
+    },
+    {
+      "id": 20,
+      "type": "wallpaper20",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper20.jpg"
+    },
+    {
+      "id": 21,
+      "type": "wallpaper21",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper21.jpg"
+    },
+    {
+      "id": 22,
+      "type": "wallpaper22",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper22.jpg"
+    },
+    {
+      "id": 23,
+      "type": "wallpaper23",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper23.jpg"
+    },
+    {
+      "id": 24,
+      "type": "wallpaper24",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper24.jpg"
+    },
+    {
+      "id": 25,
+      "type": "wallpaper25",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper25.jpg"
+    },
+    {
+      "id": 26,
+      "type": "wallpaper26",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper26.jpg"
+    },
+    {
+      "id": 27,
+      "type": "wallpaper27",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper27.jpg"
+    },
+    {
+      "id": 28,
+      "type": "wallpaper28",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper28.jpg"
+    },
+    {
+      "id": 29,
+      "type": "wallpaper29",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper29.jpg"
+    },
+    {
+      "id": 30,
+      "type": "wallpaper30",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper30.jpg"
+    },
+    {
+      "id": 31,
+      "type": "wallpaper31",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper31.jpg"
+    },
+    {
+      "id": 32,
+      "type": "wallpaper32",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper32.jpg"
+    },
+    {
+      "id": 33,
+      "type": "wallpaper33",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper33.jpg"
+    },
+    {
+      "id": 34,
+      "type": "wallpaper34",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper34.jpg"
+    },
+    {
+      "id": 35,
+      "type": "wallpaper35",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper35.jpg"
+    },
+    {
+      "id": 36,
+      "type": "wallpaper36",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper36.jpg"
+    },
+    {
+      "id": 37,
+      "type": "wallpaper37",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper37.jpg"
+    },
+    {
+      "id": 38,
+      "type": "wallpaper38",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper38.jpg"
+    },
+    {
+      "id": 39,
+      "type": "wallpaper39",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper39.jpg"
+    },
+    {
+      "id": 40,
+      "type": "wallpaper40",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper40.jpg"
+    },
+    {
+      "id": 41,
+      "type": "wallpaper41",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper41.jpg"
+    },
+    {
+      "id": 42,
+      "type": "wallpaper42",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper42.jpg"
+    },
+    {
+      "id": 43,
+      "type": "wallpaper43",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper43.jpg"
+    },
+    {
+      "id": 44,
+      "type": "wallpaper44",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper44.jpg"
+    },
+    {
+      "id": 45,
+      "type": "wallpaper45",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper45.jpg"
+    },
+    {
+      "id": 46,
+      "type": "wallpaper46",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper46.jpg"
+    },
+    {
+      "id": 47,
+      "type": "wallpaper47",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper47.jpg"
+    },
+    {
+      "id": 48,
+      "type": "wallpaper48",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper48.jpg"
+    },
+    {
+      "id": 49,
+      "type": "wallpaper49",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper49.jpg"
+    },
+    {
+      "id": 50,
+      "type": "wallpaper50",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper50.jpg"
+    },
+    {
+      "id": 51,
+      "type": "wallpaper51",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper51.jpg"
+    },
+    {
+      "id": 52,
+      "type": "wallpaper52",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper52.jpg"
+    },
+    {
+      "id": 53,
+      "type": "wallpaper53",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper53.jpg"
+    },
+    {
+      "id": 54,
+      "type": "wallpaper54",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper54.jpg"
+    },
+    {
+      "id": 55,
+      "type": "wallpaper55",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper55.jpg"
+    },
+    {
+      "id": 56,
+      "type": "wallpaper56",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper56.jpg"
+    },
+    {
+      "id": 57,
+      "type": "wallpaper57",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper57.jpg"
+    },
+    {
+      "id": 58,
+      "type": "wallpaper58",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper58.jpg"
+    },
+    {
+      "id": 59,
+      "type": "wallpaper59",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper59.jpg"
+    },
+    {
+      "id": 60,
+      "type": "wallpaper60",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper60.jpg"
+    },
+    {
+      "id": 61,
+      "type": "wallpaper61",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper61.jpg"
+    },
+    {
+      "id": 62,
+      "type": "wallpaper62",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper62.jpg"
+    },
+    {
+      "id": 63,
+      "type": "wallpaper63",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper63.jpg"
+    },
+    {
+      "id": 64,
+      "type": "wallpaper64",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper64.jpg"
+    },
+    {
+      "id": 65,
+      "type": "wallpaper65",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper65.jpg"
+    },
+    {
+      "id": 66,
+      "type": "wallpaper66",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper66.jpg"
+    },
+    {
+      "id": 67,
+      "type": "wallpaper67",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper67.jpg"
+    },
+    {
+      "id": 68,
+      "type": "wallpaper68",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper68.jpg"
+    },
+    {
+      "id": 69,
+      "type": "wallpaper69",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper69.jpg"
+    },
+    {
+      "id": 70,
+      "type": "wallpaper70",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper70.jpg"
+    },
+    {
+      "id": 71,
+      "type": "wallpaper71",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper71.jpg"
+    },
+    {
+      "id": 72,
+      "type": "wallpaper72",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper72.jpg"
+    },
+    {
+      "id": 73,
+      "type": "wallpaper73",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper73.jpg"
+    },
+    {
+      "id": 74,
+      "type": "wallpaper74",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper74.jpg"
+    },
+    {
+      "id": 75,
+      "type": "wallpaper75",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper75.jpg"
+    },
+    {
+      "id": 76,
+      "type": "wallpaper76",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper76.jpg"
+    },
+    {
+      "id": 77,
+      "type": "wallpaper77",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper77.jpg"
+    },
+    {
+      "id": 78,
+      "type": "wallpaper78",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper78.jpg"
+    },
+    {
+      "id": 79,
+      "type": "wallpaper79",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper79.jpg"
+    },
+    {
+      "id": 80,
+      "type": "wallpaper80",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper80.jpg"
+    },
+    {
+      "id": 81,
+      "type": "wallpaper81",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper81.jpg"
+    },
+    {
+      "id": 82,
+      "type": "wallpaper82",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper82.jpg"
+    },
+    {
+      "id": 83,
+      "type": "wallpaper83",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper83.jpg"
+    },
+    {
+      "id": 84,
+      "type": "wallpaper84",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper84.jpg"
+    },
+    {
+      "id": 85,
+      "type": "wallpaper85",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper85.jpg"
+    },
+    {
+      "id": 86,
+      "type": "wallpaper86",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper86.jpg"
+    },
+    {
+      "id": 87,
+      "type": "wallpaper87",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper87.jpg"
+    },
+    {
+      "id": 88,
+      "type": "wallpaper88",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper88.jpg"
+    },
+    {
+      "id": 89,
+      "type": "wallpaper89",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper89.jpg"
+    },
+    {
+      "id": 90,
+      "type": "wallpaper90",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper90.jpg"
+    }
   ]
 }
+
