@@ -1,1 +1,15 @@
-
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "type": "wallpaper1",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper1.jpg"
+    },
+    {
+      "id": 2,
+      "type": "wallpaper2",
+      "url": "https://github.com/yourusername/yourrepo/assets/images/wallpaper2.jpg"
+    },
+    // add more wallpapers as needed
+  ]
+}
